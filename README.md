@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salahelin</h1>
 
-<h3 align="center">I am a bachelor’s student in Computers and Information level 3, I'm looking for training in the software development field, to utilize my skills and to gain more experience.</h3>
+<h3 align="center">Seeking an entry-level Java Developer position to utilize my knowledge of object oriented programming and software development principles to create innovative and efficient solutions for the company.
+     Passionate about learning new technologies and working collaboratively to develop high-quality applications.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
