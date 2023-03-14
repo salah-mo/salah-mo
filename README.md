@@ -24,6 +24,6 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=salah-mo&theme=radical&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah-mo&theme=radical&layout=compact" />
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/89219c22f9de4a41840827fe7dadc5d5.png?r=rbc" width="400" alt="Salah's Dev Card"/</a>
+  <a href="https://app.daily.dev/Salaheldin-MO"><img src="https://api.daily.dev/devcards/89219c22f9de4a41840827fe7dadc5d5.png?r=rbc" width="400" alt="Salah's Dev Card"/</a>
 </p>
 
