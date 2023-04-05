@@ -7,10 +7,14 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salaheldin-mohamed/)
+     
+[![wakatime](https://wakatime.com/badge/user/ca26b38c-0ff2-4f75-a20f-a1e564f76830.svg)](https://wakatime.com/@ca26b38c-0ff2-4f75-a20f-a1e564f76830)     
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
 
+
+
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="html5" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
