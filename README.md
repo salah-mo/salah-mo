@@ -30,7 +30,3 @@ Seeking an entry-level Java Developer position to utilize my knowledge of object
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=salah-mo&theme=radical&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah-mo&theme=radical&layout=compact" />
 </p>
-
-<p align="center">
-  <a href="https://app.daily.dev/Salaheldin-MO"><img src="https://api.daily.dev/devcards/89219c22f9de4a41840827fe7dadc5d5.png?r=4qh" width="400" alt="Salah's Dev Card"/></a>
-</p>
